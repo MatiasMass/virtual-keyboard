@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/virtual-keyboard/static/css/main.94781e3e.css",
+    "main.js": "/virtual-keyboard/static/js/main.307b9657.js",
+    "static/js/787.2f2864a6.chunk.js": "/virtual-keyboard/static/js/787.2f2864a6.chunk.js",
+    "static/media/logo.svg": "/virtual-keyboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/virtual-keyboard/index.html",
+    "main.94781e3e.css.map": "/virtual-keyboard/static/css/main.94781e3e.css.map",
+    "main.307b9657.js.map": "/virtual-keyboard/static/js/main.307b9657.js.map",
+    "787.2f2864a6.chunk.js.map": "/virtual-keyboard/static/js/787.2f2864a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94781e3e.css",
+    "static/js/main.307b9657.js"
+  ]
+}
