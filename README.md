@@ -12,6 +12,3 @@ You can visit this project at: <a href="https://matiasmass.github.io/virtual-key
 <p align="center">
 <a href="https://postimg.cc/N5Tgwm9t" target="_blank"><img src="https://i.postimg.cc/RVpqKTvW/2.png" alt="2"/></a><br/><br/>
 </p>
-
-
- width="1581" height="799"
